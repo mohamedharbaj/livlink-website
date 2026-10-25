@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://livlink-ma.pages.dev/sitemap.xml
